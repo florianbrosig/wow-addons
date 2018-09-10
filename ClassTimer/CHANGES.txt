@@ -1,0 +1,34 @@
+lightweight tag c8bd795b19ae7ca96aeb8bc0e91b46df612500c4 2.3.80000.1
+Author:	Benjamin Staneck <staneck@gmail.com>
+Date:	Wed Jul 18 14:46:31 2018 +0200
+
+commit c8bd795b19ae7ca96aeb8bc0e91b46df612500c4
+Author: Benjamin Staneck <staneck@gmail.com>
+Date:   Wed Jul 18 14:46:31 2018 +0200
+
+    PLAYER_PET_CHANGED => UNIT_PET
+
+commit 3870afea089487037aa8fa589405c28b4f785738
+Author: Benjamin Staneck <staneck@gmail.com>
+Date:   Wed Jul 18 14:12:39 2018 +0200
+
+    fix UnitBuff/Debuff usage
+
+commit 7d7081933a8d3b8a4a908264e8c6e2791aee6685
+Author: Benjamin Staneck <staneck@gmail.com>
+Date:   Wed Jul 18 12:31:10 2018 +0200
+
+    add helper functions for the new UnitAura behaviour
+
+commit ebe71bf275151dc422409faca4f4769240d03d7c
+Author: Benjamin Staneck <staneck@gmail.com>
+Date:   Wed Jul 18 12:30:28 2018 +0200
+
+    add gitignore and editorconfig
+
+commit 70bda432d77ae0f97afd84b415b8e64c15dc3224
+Author: Benjamin Staneck <staneck@gmail.com>
+Date:   Wed Jul 18 12:30:09 2018 +0200
+
+    update toc for patch 8.0
+
